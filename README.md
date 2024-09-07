@@ -1,1 +1,1 @@
-# Social--Media--Database-Project
+# Social-Media-Database-Project
